@@ -1,6 +1,9 @@
 .blue-text {
   color: var(--theme);
 }
+.red-text{
+  color: red;
+}
 .wrapper {
   display: flex;
   justify-content: center;
